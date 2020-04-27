@@ -8,9 +8,7 @@
         }
     ],
     "require": {
-        "funct/funct": "^1.5",
-        "tightenco/collect": "^7.6",
-        "danielstjules/stringy": "^3.1"
+        "funct/funct": "^1.5"
     },
     "autoload": {
 	"files": [
