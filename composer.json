@@ -1,0 +1,20 @@
+{
+    "name": "yason/lessons",
+    "description": "parsing lessons",
+    "authors": [
+        {
+            "name": "Konstantin",
+            "email": "konpichugin@yandex.ru"
+        }
+    ],
+    "require": {
+        "funct/funct": "^1.5",
+        "tightenco/collect": "^7.6",
+        "danielstjules/stringy": "^3.1"
+    },
+    "autoload": {
+	"files": [
+    		"start.php"
+	 ]
+    }
+}
