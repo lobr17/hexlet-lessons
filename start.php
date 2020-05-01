@@ -11,6 +11,6 @@ function slugifY($str)
     print_r($arr);
 }
 
-slugifY('rrfds fds');
+slugifY('trfds fds');
 
 
