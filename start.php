@@ -1,11 +1,16 @@
 <?php
 
-require __DIR__ . '/vendor/autoload.php';
-//require 'vendor/autoload.php';
+//require __DIR__ . '/vendor/autoload.php';
+
+//use function Funct\Strings\classify;
 
 
-use Funct\Strings\classify;
+function slugifY($str)
+{
+    $arr = explode(" ", $str);
+    print_r($arr);
+}
 
+slugifY('rrfds fds');
 
-classify('hello world');
 
